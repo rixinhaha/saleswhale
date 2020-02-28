@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/saleswhale/static/css/main.888e0388.chunk.css",
+    "main.js": "/saleswhale/static/js/main.62e0d04b.chunk.js",
+    "main.js.map": "/saleswhale/static/js/main.62e0d04b.chunk.js.map",
+    "runtime-main.js": "/saleswhale/static/js/runtime-main.7b0658b3.js",
+    "runtime-main.js.map": "/saleswhale/static/js/runtime-main.7b0658b3.js.map",
+    "static/css/2.4efaa8e5.chunk.css": "/saleswhale/static/css/2.4efaa8e5.chunk.css",
+    "static/js/2.82f618ac.chunk.js": "/saleswhale/static/js/2.82f618ac.chunk.js",
+    "static/js/2.82f618ac.chunk.js.map": "/saleswhale/static/js/2.82f618ac.chunk.js.map",
+    "index.html": "/saleswhale/index.html",
+    "precache-manifest.89601f06e00ab6d1428884539b0343af.js": "/saleswhale/precache-manifest.89601f06e00ab6d1428884539b0343af.js",
+    "service-worker.js": "/saleswhale/service-worker.js",
+    "static/css/2.4efaa8e5.chunk.css.map": "/saleswhale/static/css/2.4efaa8e5.chunk.css.map",
+    "static/css/main.888e0388.chunk.css.map": "/saleswhale/static/css/main.888e0388.chunk.css.map",
+    "static/js/2.82f618ac.chunk.js.LICENSE.txt": "/saleswhale/static/js/2.82f618ac.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/saleswhale/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0658b3.js",
+    "static/css/2.4efaa8e5.chunk.css",
+    "static/js/2.82f618ac.chunk.js",
+    "static/css/main.888e0388.chunk.css",
+    "static/js/main.62e0d04b.chunk.js"
+  ]
+}
